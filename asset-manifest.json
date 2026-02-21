@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/pratik-dsa-sheet/static/css/main.ec51fb37.css",
-    "main.js": "/pratik-dsa-sheet/static/js/main.7e5ecb0d.js",
+    "main.js": "/pratik-dsa-sheet/static/js/main.faeceebc.js",
     "index.html": "/pratik-dsa-sheet/index.html",
     "main.ec51fb37.css.map": "/pratik-dsa-sheet/static/css/main.ec51fb37.css.map",
-    "main.7e5ecb0d.js.map": "/pratik-dsa-sheet/static/js/main.7e5ecb0d.js.map"
+    "main.faeceebc.js.map": "/pratik-dsa-sheet/static/js/main.faeceebc.js.map"
   },
   "entrypoints": [
     "static/css/main.ec51fb37.css",
-    "static/js/main.7e5ecb0d.js"
+    "static/js/main.faeceebc.js"
   ]
 }
